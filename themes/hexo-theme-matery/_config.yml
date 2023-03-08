@@ -1,3 +1,9 @@
+loadingPages:
+  enable: true  
+
+
+
+
 # main menu navigation url and icon
 # 配置菜单导航的名称、路径和图标icon.
 menu:
@@ -615,7 +621,7 @@ canvas_nest:
   enable: true
   color: 255,182,193 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   pointColor: 255,182,193 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
-  opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
+  opacity: 0.9 # 线条透明度（0~1）, 默认: 0.5
   zIndex: -1 # 背景的 z-index 属性，css 属性用于控制所在层的位置, 默认: -1.
   count: 99 # 线条的总数量, 默认: 99
 

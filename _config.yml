@@ -108,3 +108,8 @@ deploy:
   type: git
   repository: https://github.com/codeYu233/codeYu233.github.io.git
   branch: main
+# 搜索功能
+search:
+  path: search.xml
+  field: post
+
