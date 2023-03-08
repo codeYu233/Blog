@@ -268,7 +268,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #FFC0CB 0%, #FFB6C1 100%);
     opacity: 0.8;
 }
 
@@ -874,7 +874,7 @@ article a {
 
 article a:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #FFC0CB;
     text-decoration: underline;
 }
 
@@ -1067,17 +1067,17 @@ article .article-tags .chip {
 
 #artDetail .tag_share .article-tag .chip:hover {
     color: #fff;
-    background: #42b983;
+    background: #FFC0CB;
 }
 
 #artDetail .post-cate {
     float: right;
-    color: #42b983;
+    color: #FFC0CB;
 }
 
 #artDetail .post-cate a {
     padding-right: 5px;
-    color: #42b983;
+    color: #FFC0CB;
     font-weight: 500;
 }
 
@@ -1096,7 +1096,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-category:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #FFC0CB;
     text-decoration: underline;
 }
 
@@ -1174,7 +1174,7 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #FFC0CB;
     font-weight: 500;
     text-decoration: underline;
     word-wrap: break-word;
@@ -1318,7 +1318,7 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%) !important;
+    background: linear-gradient(to right, #FFC0CB 0%, #FFB6C1 100%) !important;
 }
 
 .chip .tag-length {
@@ -1396,7 +1396,7 @@ thead {
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #0f9d58;
+    background: #FFC0CB;
 }
 
 @media only screen and (min-width: 900px) {
@@ -1595,7 +1595,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #FFC0CB;
 }
 
 .post-statis .statis .name {
@@ -1616,8 +1616,8 @@ thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #0f9d58;
-    background: radial-gradient(#4cbf30, #0f9d58);
+    border: 1px solid #FFB6C1;
+    background: radial-gradient(#FFC0CB, #FFB6C1);
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
@@ -1901,7 +1901,7 @@ p.search-result-summary {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #FF5E3A 0%, #FF2A68 100%);
+    background: linear-gradient(to bottom right, #FF5E3A 0%, #FFC0CB 100%);
     width: 48px;
     height: 48px;
 }
