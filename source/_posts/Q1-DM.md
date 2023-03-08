@@ -10,6 +10,7 @@ summary:
 categories: Study
 tags:
  - DM
+ - Program
 ---
 # ***Q1 of Discrete Mathematics***
 
