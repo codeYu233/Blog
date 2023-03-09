@@ -520,7 +520,7 @@ libs:
     typed: /libs/typed/typed.js
     clicklove: /libs/others/clicklove.js
     #fireworks: /js/fireworks.min.js
-    sakura: /libs/others/sakura-half.js
+    sakura: /libs/others/sakura-small.js
     star: /libs/others/star.js
     snow: /libs/others/snow.js
     tcaptcha: /libs/others/TencentCaptcha.js
